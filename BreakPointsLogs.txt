@@ -1,0 +1,5 @@
+R Method: Input: -1 Output: -3
+F Method: Input: -3 Output: 0
+P Method: Input: -3 Output: 2
+J Method: Input: -1 Output: 0
+W method: Input: 0 Output: 4
